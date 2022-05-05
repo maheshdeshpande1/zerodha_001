@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-KI9M1GO" name="Tests.ZerodhaTest1" tests="1" failures="0" timestamp="21 Apr 2022 07:32:51 GMT" time="13.709" errors="0">
+  <testcase name="LoginWithValidInput" time="13.693" classname="Tests.ZerodhaTest1"/>
+</testsuite>

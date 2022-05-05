@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27954" started-at="2022-04-28T11:39:38Z" finished-at="2022-04-28T11:40:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27954" started-at="2022-04-28T11:39:38Z" finished-at="2022-04-28T11:40:06Z">
+      <class name="Tests.Zerodha_Test2">
+        <test-method status="PASS" signature="Test_Homepage()" name="Test_Homepage" duration-ms="27935" started-at="2022-04-28T11:39:38Z" finished-at="2022-04-28T11:40:06Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
